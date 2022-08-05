@@ -1,0 +1,6 @@
+
+
+RewriteEngine On 
+RewriteCond %{HTTP_HOST} voto-eletronico.jbr-projects.pt [NC] 
+RewriteCond %{HTTPS} off 
+RewriteRule ^(.*)$ https://%{HTTP_HOST}%{REQUEST_URI} [R=301,L]

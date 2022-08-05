@@ -1,0 +1,19 @@
+Fundo Admin - #212227
+Fundo AdminLogin - #23262D
+
+Fundo UserLogin - #b7b187
+Fundo User - #FBFEF9
+
+Cor TopBar Admin - #23262D
+Cor SideBar Admin - #23262D
+Cor Main Content - #212227
+Cor usada em bordas e seleção de uma ferramenta - #f7b03e
+
+Cor Botões
+Botão Principal - #f7b03e
+Eliminar - #890c1b
+Resultados do Evento - #003d95
+Exportar - #115c34
+Editar - #D4512C
+Ver Candidatos - #008488 
+Adicionar Candidato - #7719aa
